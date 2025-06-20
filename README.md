@@ -19,17 +19,22 @@ Here again, I do join the list of the electronical components for solding on the
 
 7 Capacitors of 1µF AVX 25V
 
+2 Capacitors electrolytic of 10µF 25V
+
 1 x 40 Pin Header Male
 
 2 x 20 Pin Header Male
 
 7 Potentiometers of 1KOhms 3296W
 
-1 optical sensor MT9M413STMDR
+1 Optical sensor MT9M413STMDR
 
 1 DEL 3mm
 
-1 resistor 430Ohms
+1 Resistor 430Ohms
 
-2 resistors 2K2Ohms
+1 Resistor 2K2Ohms
 
+1 Resistor 10KOhms
+
+1 Transistor BC550B TO92 45V
