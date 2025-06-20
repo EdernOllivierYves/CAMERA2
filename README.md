@@ -12,13 +12,24 @@ PS :  To sold the components you also need to buy capacitors and resistors, for 
 Here again, I do join the list of the electronical components for solding on the printed circuit board :
 
 9 Capacitors of 10nF 50V
+
 9 Capacitors of 100nF 50V
+
 9 Capacitors of 10µF AVX 16V
+
 7 Capacitors of 1µF AVX 25V
+
 1 x 40 Pin Header Male
+
 2 x 20 Pin Header Male
+
 7 Potentiometers of 1KOhms 3296W
+
 1 optical sensor MT9M413STMDR
+
 1 DEL 3mm
+
 1 resistor 430Ohms
+
 2 resistors 2K2Ohms
+
