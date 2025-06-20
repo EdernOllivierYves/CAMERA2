@@ -7,9 +7,9 @@ Then it should be manufactured with the mechanical drawing, and the pieces of me
 
 BR, EO.
 
-PS :  To sold the components you also need to buy capacitors and resistors, for example on the "www.mchobby.fr" website.
+PS :  To solder the components you also need to buy capacitors and resistors, for example on the "www.mchobby.fr" website.
 
-Here again, I do join the list of the electronical components for solding on the printed circuit board :
+Here again, I do join the list of the electronical components for soldering on the printed circuit board :
 
 9 Capacitors of 10nF 50V
 
