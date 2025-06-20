@@ -25,7 +25,7 @@ Here again, I do join the list of the electronical components for soldering on t
 
 1 x 40 Pin Header Male (for the arduino connector of the FPGA board)
 
-2 x 20 Pin Header Male (for the parallel port of the circuit board)
+2 x 25 Pin Header Male (for the parallel port of the circuit board)
 
 7 Potentiometers of 1KOhms 3296W
 
