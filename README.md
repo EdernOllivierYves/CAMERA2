@@ -27,7 +27,7 @@ Here again, I do join the list of the electronical components for solding on the
 
 7 Potentiometers of 1KOhms 3296W
 
-1 Optical sensor MT9M413STMDR
+1 Sensor MT9M413STMDR
 
 1 DEL 3mm
 
